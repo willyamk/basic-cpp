@@ -1,0 +1,24 @@
+# ninja log v6
+10	1142	7413472116670309	CMakeFiles/basic_cpp.dir/main.cpp.obj	1aa795a86dbdd7d2
+1147	1419	7413472128043656	basic_cpp.exe	7a810f5d7e121463
+41	1744	7413475017691170	CMakeFiles/basic_cpp.dir/main.cpp.obj	1aa795a86dbdd7d2
+59	1746	7413475017871177	CMakeFiles/basic_cpp.dir/utils/handleUserChoice.cpp.obj	a8b14fdca463f895
+73	1747	7413475018011134	CMakeFiles/basic_cpp.dir/base/FizzBuzz.cpp.obj	872b859e36ea2de0
+112	1749	7413475018401208	CMakeFiles/basic_cpp.dir/base/Palindrome.cpp.obj	b378eedd6d5fd858
+87	1766	7413475018151140	CMakeFiles/basic_cpp.dir/base/Factorial.cpp.obj	b21db79b2b46806a
+99	1956	7413475018271230	CMakeFiles/basic_cpp.dir/base/PrimeNumber.cpp.obj	27b99aa120445b85
+1956	2263	7413475036841246	basic_cpp.exe	e379e6032c9ad703
+77	1248	7413475714309392	CMakeFiles/basic_cpp.dir/base/FizzBuzz.cpp.obj	872b859e36ea2de0
+1249	1532	7413475726021204	basic_cpp.exe	e379e6032c9ad703
+99	1515	7413476973703923	CMakeFiles/basic_cpp.dir/base/Palindrome.cpp.obj	b378eedd6d5fd858
+57	1618	7413476973274218	CMakeFiles/basic_cpp.dir/base/FizzBuzz.cpp.obj	872b859e36ea2de0
+73	1793	7413476973444046	CMakeFiles/basic_cpp.dir/base/Factorial.cpp.obj	b21db79b2b46806a
+85	1993	7413476973553791	CMakeFiles/basic_cpp.dir/base/PrimeNumber.cpp.obj	27b99aa120445b85
+1994	2265	7413476992646942	basic_cpp.exe	e379e6032c9ad703
+21	1432	7413479907047922	CMakeFiles/basic_cpp.dir/main.cpp.obj	1aa795a86dbdd7d2
+112	1463	7413479907958000	CMakeFiles/basic_cpp.dir/base/Palindrome.cpp.obj	b378eedd6d5fd858
+56	1569	7413479907398045	CMakeFiles/basic_cpp.dir/base/FizzBuzz.cpp.obj	872b859e36ea2de0
+41	1581	7413479907237991	CMakeFiles/basic_cpp.dir/utils/handleUserChoice.cpp.obj	a8b14fdca463f895
+80	1744	7413479907628022	CMakeFiles/basic_cpp.dir/base/Factorial.cpp.obj	b21db79b2b46806a
+100	1867	7413479907827947	CMakeFiles/basic_cpp.dir/base/PrimeNumber.cpp.obj	27b99aa120445b85
+1868	2121	7413479925505448	basic_cpp.exe	e379e6032c9ad703
